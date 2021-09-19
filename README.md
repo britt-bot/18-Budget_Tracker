@@ -1,5 +1,5 @@
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 18-Budget_Tracker
-
 ## Description 
 
 This Budget Tracker application, gives users an easy way to track their money, anytime.
@@ -21,8 +21,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 18 - Tech Blog GitHub Repo](https://github.com/britt-bot/18-Budget_Tracker)
 
-<!-- [Homework 18 - Tech Blog Heroku Deploy]()
- -->
+
 ## Usage 
 
 This application was created to budget track, both on/offline.
