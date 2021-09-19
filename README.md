@@ -19,7 +19,7 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 18 - Tech Blog GitHub Repo](https://github.com/britt-bot/18-Budget_Tracker)
+[Tech Blog GitHub Repo](https://github.com/britt-bot/18-Budget_Tracker)
 
 
 ## Usage 
