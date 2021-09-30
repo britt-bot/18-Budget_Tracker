@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 18-Budget_Tracker
+# Budget_Tracker
 ## Description 
 
 This Budget Tracker application, gives users an easy way to track their money, anytime.
