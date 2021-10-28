@@ -19,12 +19,16 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Tech Blog Repo](https://github.com/britt-bot/18-Budget_Tracker)
+[Budget Tracker Repo](https://github.com/britt-bot/Budget_Tracker)
+
+[Budget Tracker Deploy](https://budget-tracker--homework-18.herokuapp.com/)
 
 
 ## Usage 
 
 This application was created to budget track, both on/offline.
+
+![screenshot](https://user-images.githubusercontent.com/77466708/139327155-31e000fa-6bda-49a1-b1c7-ef4eccab97dd.png)
 
 
 ## Credits
